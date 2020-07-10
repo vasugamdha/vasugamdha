@@ -20,7 +20,9 @@
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/-WordPress-4479A1?style=flat&logo=wordpress&logoColor=white)
 
-:construction: This list is still working in progress..
+<samp>
+ :construction: This list is still working in progress..
+</samp>
 
 #### :link: Follow me
 <a href="https://github.com/vasugamdha" target="_blank">![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)</a>
@@ -31,5 +33,5 @@
 
 #### :envelope: Contact
 
-<a href="https://t.me/vazug" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/lincolnbrito)</a>
-<a href="mailto:vasugamdhaedu@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:lincoln.sbrito@gmail.com)</a>
+<a href="https://t.me/vazug" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)</a>
+<a href="mailto:vasugamdhaedu@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)</a>
