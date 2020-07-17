@@ -21,6 +21,7 @@
 ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Zapier Badge](https://img.shields.io/badge/-Zapier-FF4A00?style=flat&logo=Zapier&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/-WordPress-4479A1?style=flat&logo=wordpress&logoColor=white)
 ![Alexa Badge](https://img.shields.io/badge/-Amazon%20Alexa-00CAFF?style=flat&logo=amazon-alexa&logoColor=white)
 
