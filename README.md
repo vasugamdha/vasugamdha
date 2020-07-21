@@ -3,7 +3,7 @@
  I am a competitve programmer :snake:. Exploring ML/DL and Data Analytics Enthusiast. Currently, I am working as a Data Analytics Intern at Tata Consultancy Services.
 </samp><br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25)
+![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)
 
 #### :rocket: My Stack
 
@@ -43,3 +43,23 @@
 
 <a href="https://t.me/vazug" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)</a>
 <a href="mailto:vasugamdhaedu@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)</a>
+
+<a href="https://github.com/vasugamdha/Coursera-Machine-Learning">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=Coursera-Machine-Learning&theme=radical" />
+</a>
+<a href="https://github.com/vasugamdha/vasugamdha.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=vasugamdha.github.io&theme=radical" />
+</a>
+<a href="https://github.com/vasugamdha/ChatApplication">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=ChatApplication&theme=radical" />
+</a>
+<a href="https://github.com/vasugamdha/python-webCrawler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=python-webCrawler&theme=radical" />
+</a>
+<a href="https://github.com/vasugamdha/WCMC-Pracs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=WCMC-Pracs&theme=radical" />
+</a>
+<a href="https://github.com/vasugamdha/django-Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=django-Portfolio&theme=radical" />
+ 
+ 
