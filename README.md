@@ -61,5 +61,9 @@
 </a>
 <a href="https://github.com/vasugamdha/django-Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=django-Portfolio&theme=radical" />
+ </a><br>
  
+ 
+ [![HitCount](http://hits.dwyl.com/vasugamdha/vasugamdha.svg)](http://hits.dwyl.com/vasugamdha/vasugamdha)
+
  
