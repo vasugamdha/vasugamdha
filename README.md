@@ -1,6 +1,6 @@
 ## :man_technologist: Hello World! 
 <samp>
- I am a competitve programmer :snake:. Exploring ML/DL and Data Analytics Enthusiast. Currently, I am working as a Data Analytics Intern at Tata Consultancy Services.
+ I am a competitve programmer :snake:. Exploring ML/DL and Data Analytics Enthusiast. 
 </samp><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)
