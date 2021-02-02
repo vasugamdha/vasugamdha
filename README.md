@@ -37,7 +37,6 @@
 <a href="https://www.linkedin.com/in/vasugamdha/" target="_blank">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)</a>
 <a href="https://www.researchgate.net/profile/Vasu_Gamdha" target="_blank">![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-E4405F?style=flat&logo=ResearchGate&logoColor=white)</a>
 <a href="https://scholar.google.com/citations?user=JPzj38IAAAAJ" target="_blank">![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)</a>
-<a href="https://instagram.com/vasu.0_0" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)</a>
 
 #### :envelope: Contact
 
