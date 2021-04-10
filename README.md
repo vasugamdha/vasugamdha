@@ -1,9 +1,16 @@
 ## :man_technologist: Hello World! 
 <samp>
  I am a competitve programmer :snake:. Exploring ML/DL and Data Analytics Enthusiast. 
-</samp><br><br>
+</samp><br>
+   
+<center>
+  
+<div align="center"> <br>
+<img src="https://komarev.com/ghpvc/?username=Vedanshu7&&style=flat-square" align="center" />
+</div>    <br>  
 
 ![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)
+ 
 
 #### :rocket: My Stack
 
@@ -62,4 +69,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=django-Portfolio&theme=radical" />
  </a><br>
 
- 
+ </center>
