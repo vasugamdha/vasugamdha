@@ -6,7 +6,7 @@
 <center>
   
 <div align="center"> <br>
-<img src="https://komarev.com/ghpvc/?username=Vedanshu7&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=vasugamdha&&style=flat-square" align="center" />
 </div>    <br>  
 
 ![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)
