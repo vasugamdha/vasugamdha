@@ -46,10 +46,13 @@
 <a href="https://scholar.google.com/citations?user=JPzj38IAAAAJ" target="_blank">![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)</a>
 
 #### :envelope: Contact
-
+ 
 <a href="https://t.me/vazug" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)</a>
 <a href="mailto:vasugamdhaedu@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)</a>
 
+<a href="https://github.com/vasugamdha/python-webCrawler">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=random-colab-notebooks&theme=radical" />
+</a>
 <a href="https://github.com/vasugamdha/Coursera-Machine-Learning">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=Coursera-Machine-Learning&theme=radical" />
 </a>
@@ -59,14 +62,5 @@
 <a href="https://github.com/vasugamdha/ChatApplication">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=ChatApplication&theme=radical" />
 </a>
-<a href="https://github.com/vasugamdha/python-webCrawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=python-webCrawler&theme=radical" />
-</a>
-<a href="https://github.com/vasugamdha/WCMC-Pracs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=WCMC-Pracs&theme=radical" />
-</a>
-<a href="https://github.com/vasugamdha/django-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=django-Portfolio&theme=radical" />
- </a><br>
-
- </center>
+<br>
+</center>
