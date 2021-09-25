@@ -50,7 +50,7 @@
 <a href="https://t.me/vazug" target="_blank">![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)</a>
 <a href="mailto:vasugamdhaedu@gmail.com" target="_blank">![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)</a>
 
-<a href="https://github.com/vasugamdha/python-webCrawler">
+<a href="https://github.com/vasugamdha/random-colab-notebooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=random-colab-notebooks&theme=radical" />
 </a>
 <a href="https://github.com/vasugamdha/Coursera-Machine-Learning">
