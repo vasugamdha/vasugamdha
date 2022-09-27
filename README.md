@@ -9,9 +9,8 @@
 <img src="https://komarev.com/ghpvc/?username=vasugamdha&&style=flat-square" align="center" />
 </div>    <br>  
 
-![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)
+[comment]: # "![](https://github-readme-stats.vercel.app/api?username=vasugamdha&show_icons=true&line_height=25&theme=radical)"
  
-
 #### :rocket: My Stack
 
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -61,14 +60,14 @@
 <a href="https://github.com/vasugamdha/random-colab-notebooks">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=random-colab-notebooks&theme=radical" />
 </a>
-<a href="https://github.com/vasugamdha/Coursera-Machine-Learning">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=Coursera-Machine-Learning&theme=radical" />
+<a href="https://github.com/vasugamdha/SkipTheBinsBackend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=SkipTheBinsBackend&theme=radical" />
 </a>
 <a href="https://github.com/vasugamdha/vasugamdha.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=vasugamdha.github.io&theme=radical" />
 </a>
-<a href="https://github.com/vasugamdha/ChatApplication">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=ChatApplication&theme=radical" />
+<a href="https://github.com/vasugamdha/Fifa-Simulation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vasugamdha&repo=Fifa-Simulation&theme=radical" />
 </a>
 <br>
 </center>
